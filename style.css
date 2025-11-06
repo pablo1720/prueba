@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 300px;
+}
+
+.button1{
+  background-color: brown;
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+  padding-top: 10px;
+}
